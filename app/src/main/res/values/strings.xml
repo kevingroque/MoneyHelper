@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MoneyHelper</string>
+    <string name="newoperation_title_registrar">Registrar Ingresos / Egresos</string>
+    <string name="newoperation_monto">Monto</string>
+    <string name="main_title1">Contabilidad de Ingresos / Egresos</string>
+    <string name="main_title2">Proporción de Ingresos / Egresos</string>
+    <string name="main_text_saldoAhorro">Saldo Actual Ahorro</string>
+    <string name="main_text_saldoCredito">Saldo Actual Crédito</string>
+    <string name="main_text_saldoEfectivo">Saldo Actual Efectivo</string>
+    <string-array name="tipo_cuenta">
+        <item>Seleccione cuenta</item>
+        <item>Tarjeta de Crédito</item>
+        <item>Ahorro</item>
+        <item>Efectivo</item>
+</string-array>
+
+</resources>
